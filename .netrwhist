@@ -1,5 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =9
 let g:netrw_dirhist_1='/home/eulo/sites/venuemob/web-application/assets/src/coffeescript'
 let g:netrw_dirhist_2='/home/eulo/sites/venuemob/web-application/assets/src/coffeescript/home'
 let g:netrw_dirhist_3='/home/eulo/sites/venuemob/web-application'
+let g:netrw_dirhist_4='/Users/eulo/.vim/bundle'
+let g:netrw_dirhist_5='/Users/eulo/.vim/bundle/YouCompleteMe'
+let g:netrw_dirhist_6='/Users/eulo/.vim/bundle'
+let g:netrw_dirhist_7='/Users/eulo/.vim/bundle/colorizer'
+let g:netrw_dirhist_8='/Users/eulo/aws'
+let g:netrw_dirhist_9='/Users/eulo/repos/mob-bot/scripts'
